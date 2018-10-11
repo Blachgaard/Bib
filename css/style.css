@@ -1,0 +1,126 @@
+/* Global */
+* {
+    box-sizing: border-box;
+}
+body {
+    margin:0px;
+    padding:0px; 
+}
+nav {
+    margin:30px;
+    font-size: 20px;
+}
+nav li {
+    display:inline;
+    border-style:hidden solid solid hidden;
+    margin:30px;
+    padding:5px;
+}
+input[type=text] {
+  position:fixed;
+  top:20px;
+  right:20px;
+  padding: 10px;
+  font-size: 17px;
+}
+#indhold {
+    display:flex;
+    max-width: 100%;
+    margin-top:50px;
+}
+
+.flere {
+    padding:40px;
+    padding-right:0px;
+    width:25%;
+    height:10%;
+    text-align: center
+}
+.one {
+    width:40%;
+    margin:5px;
+}
+.two {
+    width:40%;
+    margin:5px;
+}
+.three {
+    width:40%;
+    margin:5px;
+}
+.four {
+    width:40%;
+    margin:5px;
+}
+.mainbog {
+    width:40%;
+    height:90vh;
+    padding:30px
+}
+.mainbog img {
+    height:100%;
+    width:100%;
+}
+.infobog {
+   width:35%;
+   padding-right:40px;
+   text-align: justify;
+}
+.one1 {
+    width:20%;
+    margin:5px;
+}
+.two2 {
+    width:20%;
+    margin:5px;
+}
+.three3 {
+    width:20%;
+    margin:5px;
+}
+.four4 {
+    width:20%;
+    margin:5px;
+}
+.other {
+    position:absolute;
+    bottom:15px;
+}
+strong {
+    color: green;
+}
+.infobog h4 {
+    margin-top:10%;
+}
+h1 {
+    margin-left:100px;
+}
+#forside {
+    display:flex;
+    max-width:100%;
+}
+.forsidedel {
+    width:50%;
+    text-align: center;
+}
+
+.et {
+    width:20%;
+    margin:5px;
+}
+.to {
+    width:20%;
+    margin:5px;
+}
+.tre {
+    width:20%;
+    margin:5px;
+}
+.fire {
+    width:20%;
+    margin:5px;
+}
+.fem {
+    width:5%;
+    
+}
